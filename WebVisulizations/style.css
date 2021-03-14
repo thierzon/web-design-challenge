@@ -1,0 +1,23 @@
+/* main box */
+.main_box {
+  height: 100%;
+  padding: 20px;
+  margin-top: 40px;
+  background: white;
+  }
+
+/* side box */
+.side_box {
+  height: 100%;
+  padding: 20px;
+  margin-top: 40px;
+  background: white;
+  }
+
+/* box header with solid border */
+.box_header {
+  border-bottom: 1px solid lightgray;
+  padding: 20px;
+  color: teal;
+}
+
